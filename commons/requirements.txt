@@ -1,0 +1,10 @@
+pandas
+numpy
+venn
+upsetplot
+matplotlib
+pyteomics
+lxml
+openpyxl
+altair_saver
+scipy
