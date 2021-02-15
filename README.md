@@ -13,7 +13,7 @@ Thanks for checking our this github. The code contained here is intended to supp
 
 
 ## Getting Started
-This repo uses python and jupyter notebooks. If you do not have either of these installed, please read further here: https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html
+This repo uses python and jupyter notebooks. If you do not have either of these installed, please read further [here](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html).
 
 
 Easiest way to use these notebooks is to clone/fork the repo and then install requirements.
@@ -32,4 +32,4 @@ This code is provided 'as is' and may be modified for personal use. If you are i
 
 ## Contact
 
-Research group
+[grahamdelafield.com](https://grahamdelafield.github.io) - [@DGDelafield](https://twitter.com/DGDelafield) - graham.delafield@gmail.com
