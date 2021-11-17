@@ -172,7 +172,7 @@ class ByFile:
     def reduce_frame(self, cols=["clean_peptide", "glycan", "z", "observed_mz",
                                  "calc._mass_mh", "glycosite", "score",
                                  "delta_mod", "log_prob", "peptide",
-                                 "protein_name"], gp_only=False):
+                                 "protein_name", "scan_time"], gp_only=False):
         if gp_only:
             return self.frame[self.frame.glycan != 0][cols]
         return self.frame[cols]
