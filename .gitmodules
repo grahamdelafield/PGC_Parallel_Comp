@@ -1,3 +1,3 @@
-[submodule "Commons"]
-	path = Commons
+[submodule "commons"]
+	path = commons
 	url = https://github.com/grahamdelafield/Commons.git
