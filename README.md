@@ -1,5 +1,5 @@
 # PGC_Parallel_Comp
-Repository for code and datafiles associated with Manuscript (citation to come).
+Repository for code and datafiles associated with Manuscript [10.1007/s00216-022-03934-7](https://link.springer.com/article/10.1007/s00216-022-03934-7).
 
 <img src="https://github.com/grahamdelafield/PGC_Parallel_Comp/blob/main/images/ReadmeImg.png" align="right"
      alt="Venn diagram" height="250">
